@@ -11,7 +11,7 @@
 
 - 👯 I am looking to collaborate on **Hackathons**
 
-- 🤝 I am looking for help with **Machine Learning**
+- 🤝 I'm looking for help with **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saketruia](https://github.com/saketruia)
 
