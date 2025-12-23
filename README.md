@@ -9,7 +9,7 @@
 
 - 🌱 I am currently learning **Machine Learning, DSA and Data Science**
 
-- 👯 I am looking to collaborate on **Hackathons**
+- 👯 I'm looking to collaborate on **Hackathons**
 
 - 🤝 I'm looking for help with **Machine Learning**
 
