@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Saket Ruia</h1>
-<h3 align="center">I am a 3rd year CS(Data Science) student and enthusiast to learn new things</h3>
+<h3 align="center">I'm a 3rd year CS(Data Science) student and enthusiast to learn new things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saketruia&label=Profile%20views&color=0e75b6&style=flat" alt="saketruia" /> </p>
 
