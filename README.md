@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I am currently working on **College Projects**
+- 🔭 I'm currently working on **College Projects**
 
 - 🌱 I am currently learning **Machine Learning, DSA and Data Science**
 
