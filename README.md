@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on **College Projects**
 
-- 🌱 I am currently learning **Machine Learning, DSA and Data Science**
+- 🌱 I'm currently learning **Machine Learning, DSA and Data Science**
 
 - 👯 I am looking to collaborate on **Hackathons**
 
