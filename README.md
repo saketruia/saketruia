@@ -38,6 +38,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saketruia&show_icons=true&locale=en&layout=compact&theme=merko&rank" alt="saketruia" /></p>
 
 
+### Streaks
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saketruia&theme=merko&rank" alt="saketruia" /></p>
 
 ### Contribution Graph
